@@ -28,6 +28,6 @@ Special thanks to the contributors and developers of Excel,Power bi and related 
 4. Jupyter Notebook
 
 ## Project Link :
-https://app.powerbi.com/groups/me/reports/badc8685-57a1-4efb-9f3d-23b57b0cc7d5/ReportSectioncd1bfb2826aa0cdecb9b?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiYWZjOGY1MDYtNDYyYy00YjQ5LTljOTktMWYyODBkYjBkNjg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Linkedln post :
 https://www.linkedin.com/posts/rishbh-negi-470b55219_powerbi-sql-excel-activity-7199365724778213376-Mjd_?utm_source=share&utm_medium=member_desktop
